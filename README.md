@@ -17,8 +17,8 @@ Here we using the Linkedlist and add an users to the Linkedlist
 <img width="2559" height="1381" alt="image" src="https://github.com/user-attachments/assets/2769ccd8-772e-49bb-8be1-9d50d1bdd708" />
 
 # Task #5
-<img width="2530" height="1311" alt="Снимок экрана 2026-04-16 000712" src="https://github.com/user-attachments/assets/0275749a-1e65-4d9d-8641-00757406f9f5" />
+<img width="2530" height="1311" alt="Снимок экрана 2026-04-13 000712" src="https://github.com/user-attachments/assets/0275749a-1e65-4d9d-8641-00757406f9f5" />
 
 # Task #6
-<img width="2559" height="1445" alt="Снимок экрана 2026-04-16 000738" src="https://github.com/user-attachments/assets/648cae04-3a7d-4c41-9ddd-2e37490c94da" />
+<img width="2559" height="1445" alt="Снимок экрана 2026-04-13 000738" src="https://github.com/user-attachments/assets/648cae04-3a7d-4c41-9ddd-2e37490c94da" />
 
